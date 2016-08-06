@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Creating a Portfolio Page
+* [Creating a Portfolio Page](creating-a-portfolio-page.md)
 * Installing and Activating Slimpack plugin
 * Activating Slimpack Portfolio Custom Content Type
 * Enabling Portfolio Custom Content Type
