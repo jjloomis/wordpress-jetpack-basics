@@ -6,7 +6,7 @@
 * [Activating Slimpack Portfolio Custom Content Type](activating-slimpack-portfolio-custom-content-type.md)
 * [Enabling Portfolio Custom Content Type](enabling-portfolio-custom-content-type.md)
 * [Creating a Portfolio Project](creating-a-portfolio-project.md)
-* Creating Portfolio Project Type
+* [Creating Portfolio Project Type](creating-portfolio-project-type.md)
 * Adding Shortcode to Portfolio Page
 * Customizing Portfolio Layout with Shortcode
 * Portfolio Shortcode examples
