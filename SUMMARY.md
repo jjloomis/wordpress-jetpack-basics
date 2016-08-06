@@ -7,7 +7,7 @@
 * [Enabling Portfolio Custom Content Type](enabling-portfolio-custom-content-type.md)
 * [Creating a Portfolio Project](creating-a-portfolio-project.md)
 * [Creating Portfolio Project Type](creating-portfolio-project-type.md)
-* Adding Shortcode to Portfolio Page
+* [Adding Shortcode to Portfolio Page](adding-shortcode-to-portfolio-page.md)
 * Customizing Portfolio Layout with Shortcode
 * Portfolio Shortcode examples
 
