@@ -3,3 +3,6 @@
 3. In the Add Plugins page, go to the Search Plugins field and enter Slimpack.
 4. The Slimpack – Lightweight Jetpack plugin will appear. Click Install Now.
 5. The plugin will install on your server space. Click Activate Plugin.
+
+
+

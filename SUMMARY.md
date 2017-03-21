@@ -9,5 +9,5 @@
 * [Creating Portfolio Project Type](creating-portfolio-project-type.md)
 * [Adding Shortcode to Portfolio Page](adding-shortcode-to-portfolio-page.md)
 * [Customizing Portfolio Layout with Shortcode](customizing-portfolio-layout-with-shortcode.md)
-* Portfolio Shortcode examples
+* [Portfolio Shortcode examples](portfolio-shortcode-examples.md)
 
