@@ -1,5 +1,7 @@
+
+
 1. In the Dashboard, select Pages.
-2. Go to your Portfolio page.
+2. Go to your Portfolio Page.
 3. In the Visual editor add the following shortcode \(be sure to include both brackets\):
 
       `[portfolio]`
