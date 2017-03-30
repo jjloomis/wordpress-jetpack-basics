@@ -5,9 +5,9 @@
 3. Title the page `Portfolio Page`. Note: You can change the button label to `Portfolio` in the Menu area of your site. However, the slug for your Portfolio Page must be `portfolio-page`.
 4. In the Visual or Text editor, add the following shortcode \(be sure to include both brackets\):
 
-`[portfolio]`
+  `[portfolio]`
 
-1. When finished, click Publish or Update. 
+5. When finished, click Publish or Update. 
 
 
 
