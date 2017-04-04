@@ -1,5 +1,7 @@
-1. In the WordPress Dashboard, click Settings.
-2. From the Settings submenu, select Writing.
-3. Scroll to the bottom of the Writing Settings page.
-4. Under Your Custom Content Types, click the Enable Portfolio Projects for this site checkbox.
-5. Click the Save Changes button at the bottom of the page. Portfolio will appear as a Custom Content Type in the Dashboard.
+1. In the WordPress Dashboard, click Jetpack.
+2. From the Jetpack submenu, select Settings.
+3. On the Jetpack settings page, click the Writing tab.
+4. Scroll down to Custom Content Types. Click the toggle button to turn this feature on.
+5. Click the Custom Content Types drop-down arrow to display its options. 
+6. Click the checkbox next to Enable Portfolio Projects for this site.
+7. When finished, click Save Settings. Note: You may need to refresh your browser before Portfolio appears as a button in your Dashboard. 
