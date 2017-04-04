@@ -1,4 +1,4 @@
-This step is optional, but it is highly recommended. Creating Project Types will give you greater control over the layout of your Projects. As you’ll see later, you can use Project Types with the [portfolio] shortcode that adds your Portfolio to your site.
+This step is optional, but recommended if you want greater control over the layout of your Projects. You can use Project Types within the `[portfolio]` shortcode that adds your Portfolio to your site.
 
 1. In the Dashboard, click Portfolio.
 2. From the Portfolio submenu, select Project Types.
