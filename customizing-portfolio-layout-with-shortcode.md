@@ -19,15 +19,7 @@ Note the absence of a space after the comma in the example above. If you put a s
 
 The following attributes can be added to your `[portfolio]` shortcode. These attributes are from the Porfolio Shortcode page on WordPress.com.
 
-* display\_types: display Project Types. \(true/false\)
-* display\_tags: display Project Tags. \(true/false\)
-* display\_content: diplay Project content \(true/false\)
-* include\_type: display specific Project Types. Defaults to all. \(Comma-separated list of Project Type slugs\)
-* include\_tag: display specific Project Tags. Defaults to all. \(Comma-separated list of Project Tag slugs\)
-* columns: number of columns in shortcode. Defaults to 2. \(Number, 1-6\)
-* showposts: number of projects to display. Defaults to all. \(Number\)
-
-| Attribute | Shortcode attribute | Set to |
+| Customization | Shortcode attribute | Set to |
 | :--- | :--- | :--- |
 | Display Project Types \(defaults to true\) | display\_types | true or false |
 | Display Project Tags \(defaults to true\) | display\_tags | true or false |
@@ -36,8 +28,8 @@ The following attributes can be added to your `[portfolio]` shortcode. These att
 | Display only specific Project Tags \(defaults to all\) | include\_tag | Comma-separated list of Project Tags |
 | Number of columns \(defaults to two\) | columns | Number 1 - 6 |
 | Number of Projects to display \(defaults to all\) | showposts | Number |
-| Order |  |  |
-|  |  |  |
+| Order based on date/ timestamp \(defaults to ascending order\)  | oder | ASC or DESC |
+| Sort by specific  |  |  |
 
 
 
