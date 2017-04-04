@@ -1,3 +1,5 @@
+Customizing Portfolio layout with shortcode attributes
+
 By default, the \[portfolio\] shortcode will display with the following with attributes:
 
 * Two-column layout
@@ -28,8 +30,8 @@ The following attributes can be added to your `[portfolio]` shortcode. These att
 | Display only specific Project Tags \(defaults to all\) | include\_tag | Comma-separated list of Project Tags |
 | Number of columns \(defaults to two\) | columns | Number 1 - 6 |
 | Number of Projects to display \(defaults to all\) | showposts | Number |
-| Order based on date/ timestamp \(defaults to ascending order\)  | oder | ASC or DESC |
-| Sort by specific  |  |  |
+| Order based on date/ timestamp \(defaults to ascending order\) | oder | ASC or DESC |
+| Sort by specific |  |  |
 
 
 
