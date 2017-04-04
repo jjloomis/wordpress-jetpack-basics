@@ -8,7 +8,7 @@
 
 ## Fanny Pack plugin
 
-If you don't have an existing WordPress.com account, you can use the Fanny Pack plugin to run Jetpack in Developer Mode. Features like the Portfolio Custom Content Type, Photo Carrosel, and Extra Sidebar Widgets are enabled, but enhanced security features can't be turned on.
+If you don't have a WordPress.com account, you can use the Fanny Pack plugin to run Jetpack in Developer Mode. Features like the Portfolio Custom Content Type, Photo Carrosel, and Extra Sidebar Widgets are enabled, but enhanced security features can't be turned on.
 
 1. Using Chrome or Firefox, go to the Fanny Pack GitHub page. (Note: Do not use Safari for this process.) 
 2. Click the Clone or download button (on right). In the fly-out menu that appears, select Download ZIP. A ZIP file of the plugin will download to your computer.
@@ -19,7 +19,9 @@ If you don't have an existing WordPress.com account, you can use the Fanny Pack 
     
 ## WordPress.com
 
-If you have an existing WordPress.com account, you can use it to unlock Jetpack. This will allow to use all of the Jetpack modules.                     
+If you have an existing WordPress.com account, you can use it to unlock Jetpack. This will allow to use all of the Jetpack modules.  
+
+                                      
 
 
 
