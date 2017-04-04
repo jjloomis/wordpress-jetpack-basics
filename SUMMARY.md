@@ -15,5 +15,4 @@
 * [Creating a Portfolio Project](creating-a-portfolio-project.md)
 * [Creating Portfolio Project Types](creating-portfolio-project-type.md)
 * [Customizing Portfolio Layout with Shortcode](customizing-portfolio-layout-with-shortcode.md)
-* [Portfolio Shortcode examples](portfolio-shortcode-examples.md)
 
