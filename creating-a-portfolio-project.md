@@ -1,3 +1,5 @@
+# Creating a Portfolio Project
+
 1. In the Dashboard, click Portfolio.
 2. From the Portfolio submenu, select Add New.
 3. Give your Project a name.
