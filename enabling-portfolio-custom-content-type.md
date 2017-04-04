@@ -1,3 +1,5 @@
+# Activating Portfolio Custom Content Type
+
 1. In the WordPress Dashboard, click Jetpack.
 2. From the Jetpack submenu, select Settings.
 3. On the Jetpack settings page, click the Writing tab.
