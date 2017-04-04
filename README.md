@@ -6,8 +6,4 @@ The Slimpack plugin gives you most of the modules found in the Jetpack plugin, b
 
 The Simpack plugin Portfolio Custom Content Type is just one of the modules included with the Slimpack plugin. These instructions focus on installing and using the Slimpack plugin Portfolio Custom Content Type.
 
-Test test.
-
-More test.
-1234.
 
