@@ -1,4 +1,4 @@
-Customizing Portfolio layout with shortcode attributes
+# Customizing Portfolio layout with shortcode attributes
 
 By default, the \[portfolio\] shortcode will display with the following with attributes:
 
