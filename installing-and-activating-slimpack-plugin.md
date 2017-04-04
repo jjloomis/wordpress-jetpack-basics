@@ -4,7 +4,7 @@
 2. From the Plugins area, select Add New.
 3. In the Add Plugins page, go to the Search Plugins field and enter Jetpack.
 4. The Jetpack plugin will appear. Click Install Now. 
-5. Click Activate Plugin. Note: At this point, Jetpack is active, but essentially "locked." You'll need to unlock it using the Fannypack plugin or a WordPress.com account (see below.) 
+5. Click Activate Plugin. Note: At this point, Jetpack is active, but "locked." You'll need to unlock it using the Fannypack plugin or a WordPress.com account (see below.) 
 
 ## Fannypack
 
