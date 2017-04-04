@@ -1,5 +1,7 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
 * [Creating a Portfolio Page](creating-a-portfolio-page.md)
 * [Installing and activating Jeptack](installing-and-activating-slimpack-plugin.md)
@@ -10,4 +12,6 @@
 * [Adding Shortcode to Portfolio Page](adding-shortcode-to-portfolio-page.md)
 * [Customizing Portfolio Layout with Shortcode](customizing-portfolio-layout-with-shortcode.md)
 * [Portfolio Shortcode examples](portfolio-shortcode-examples.md)
+
+## Working with the Portfolio Custom Content Type
 
