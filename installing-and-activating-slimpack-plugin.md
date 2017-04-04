@@ -12,7 +12,8 @@ If you don't have an existing WordPress.com account, you can use the Fanny Pack 
 
 1. Using Chrome or Firefox, go to the Fanny Pack GitHub page. (Note: Do not use Safari for this process.) 
 2. Click the Clone or download button (on right). In the fly-out menu that appears, select Download ZIP. A ZIP file of the plugin will download to your computer.
-3. 
+3. Go to the Dashboard of your WordPress site. Select Plugins and choose Add New.
+4. 
     
 ## WordPress.com
 
