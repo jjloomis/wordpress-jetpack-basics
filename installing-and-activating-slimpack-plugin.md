@@ -13,7 +13,9 @@ If you don't have an existing WordPress.com account, you can use the Fanny Pack 
 1. Using Chrome or Firefox, go to the Fanny Pack GitHub page. (Note: Do not use Safari for this process.) 
 2. Click the Clone or download button (on right). In the fly-out menu that appears, select Download ZIP. A ZIP file of the plugin will download to your computer.
 3. Go to the Dashboard of your WordPress site. Select Plugins and choose Add New.
-4. 
+4. On the Add Plugins page, click Upload Plugin. Click Choose File. Navigate to and select fanny-pack-master.zip on your computer. 
+5. Click Install Now.
+6. Click Activate Plugin. Fanny Pack will unlock Jetpack on your site.
     
 ## WordPress.com
 
