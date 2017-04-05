@@ -1,6 +1,6 @@
 # Customizing Portfolio layout with shortcode attributes
 
-By default, the \[portfolio\] shortcode will display with the following with attributes:
+By default, the \[portfolio\] shortcode will display your portfolio with the following with attributes:
 
 * Two-column layout
 * Portfolio Projects listed oldest to newest \(determined by date/ time added to WordPress site\)
