@@ -1,6 +1,6 @@
 # Creating a Portfolio Page
 
-Instead of adding work samples directly to your Portfolio Page, you'll use shortcode to automaticaly embed your Portfolio Projects into this page.
+Instead of adding work samples directly to your Portfolio Page, you'll use shortcode to automaticaly embed your Portfolio Projects on this page.
 
 1. In the Dashboard, click Pages.
 2. From the Pages submenu, select Add New.
