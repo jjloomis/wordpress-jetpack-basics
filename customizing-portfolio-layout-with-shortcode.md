@@ -19,7 +19,7 @@ IMPORTANT: Never include a space after a comma when working with a comma-separat
 
 Note the absence of a space after the comma in the example above. If you put a space after the comma, the `[portfolio`\] shortcode won’t work.
 
-The following attributes can be added to your `[portfolio]` shortcode. These attributes are from the Porfolio Shortcode page on WordPress.com.
+The following attributes can be added to your `[portfolio]` shortcode. These attributes are from the [Porfolio Shortcode page on WordPress.com](https://en.support.wordpress.com/portfolios/portfolio-shortcode/).
 
 | Customization | Shortcode attribute | Set to |
 | :--- | :--- | :--- |
@@ -28,10 +28,10 @@ The following attributes can be added to your `[portfolio]` shortcode. These att
 | Display initial text of Project \(defaults to true\) | display\_content | true or false |
 | Display only specific Project Types \(defaults to all\) | include\_type | Comma-separarted list of Project Type slugs |
 | Display only specific Project Tags \(defaults to all\) | include\_tag | Comma-separated list of Project Tags |
-| Number of columns \(defaults to two\) | columns | Number 1 - 6 |
+| Number of columns \(defaults to two\) | columns | Numbers 1 - 6 |
 | Number of Projects to display \(defaults to all\) | showposts | Number |
 | Order based on date/ timestamp \(defaults to ascending order\) | oder | ASC or DESC |
-| Sort by specific |  |  |
+| Sort by specific criteria \(defaults to date\) | orderby | author or title or rand |
 
 
 
