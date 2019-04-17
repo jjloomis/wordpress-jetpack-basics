@@ -21,7 +21,3 @@ If you don't have a WordPress.com account, you can use the Fanny Pack plugin to 
 
 If you have an existing WordPress.com account, you can use it to unlock Jetpack. This will allow to use all of the Jetpack modules.
 
-
-
-Check check 123.
-
